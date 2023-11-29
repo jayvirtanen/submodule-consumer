@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/jayvirtanen/submodule.git
+	branch = new-branch
