@@ -1,4 +1,4 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/jayvirtanen/submodule.git
-        branch = 2.0
+        branch = develop
